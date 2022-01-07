@@ -1,0 +1,13 @@
+.Appitems {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+.shop{
+  background-color: rgb(252, 241, 228);
+  flex: 1;
+  margin: 20px;
+  padding: 10px;
+}
